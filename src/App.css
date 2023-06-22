@@ -1,0 +1,19 @@
+
+body{
+  background-color: rgb(34, 25, 32);
+}
+.container{
+  width: 100%;
+  max-width: 1220px;
+  margin: 0 auto;
+}
+.title{
+  color: beige;
+  text-align: center;
+  margin: 20px 0;
+}
+.slide-iten{
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
